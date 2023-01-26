@@ -1,4 +1,4 @@
 # TestNew
-N DGDF E Remote
+N DGDF E Remote?REMOTE
 Local
 
